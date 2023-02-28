@@ -2,10 +2,10 @@
 source "https://rubygems.org"
 
 # Database
-gem 'sqlite3', '~>1.4'
+gem "sqlite3", "~>1.4"
 
 # Testing
-gem 'rspec'
+gem "rspec"
 
 # Debugging
-gem 'pry'
+gem "pry"
